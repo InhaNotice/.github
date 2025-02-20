@@ -22,3 +22,5 @@
 많은 관심 부탁드립니다! </br>
 
 [카카오톡 오픈채팅방](https://open.kakao.com/o/gzHQEXfh)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FInhaNotice&count_bg=%230EF0F7&title_bg=%23191919&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
