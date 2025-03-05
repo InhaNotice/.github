@@ -15,4 +15,8 @@
 ## 🚀 지금 다운로드 하세요
 [iOS 다운로드](https://apps.apple.com/app/인하공지/id6740850198) </br>
 
+<<<<<<< HEAD
 [Android 다운로드](https://play.google.com/store/apps/details?id=com.logicallawbio.inha_notice&pcampaignid=web_share)
+=======
+[Android 다운로드](https://play.google.com/store/apps/details?id=com.logicallawbio.inha_notice&pcampaignid=web_share)
+>>>>>>> 5e35ae8d7b0ac8294beaed8a9d763854275092c7
