@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/6e47f0e0-b440-4296-a1b6-a3bc99b87123">
+  <img src="https://github.com/user-attachments/assets/b6a8c674-ff74-45f1-8c7e-18b787d2f97b">
 </div>
 
 ## 인하대학교의 모든 소식, 이제 인하공지에서 확인하세요!
@@ -15,11 +15,4 @@
 ## 🚀 지금 다운로드 하세요
 [iOS 다운로드](https://apps.apple.com/app/인하공지/id6740850198) </br>
 
-## ✨ 인하공지 베타테스트
-현재 iOS와 **Android 베타테스터**를 모집하고 있습니다.
-
-베타테스터에 참여하셔서 먼저 새로운 기능을 체험해보세요🔥
-
-[카카오톡 오픈채팅방](https://open.kakao.com/o/gzHQEXfh)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FInhaNotice&count_bg=%230EF0F7&title_bg=%23191919&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[Android 다운로드](https://play.google.com/store/apps/details?id=com.logicallawbio.inha_notice&pcampaignid=web_share)
