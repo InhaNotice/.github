@@ -15,10 +15,4 @@
 ## 🚀 지금 다운로드 하세요
 [iOS 다운로드](https://apps.apple.com/app/인하공지/id6740850198) </br>
 
-## ✨ 인하공지 베타테스트
-인하공지의 **베타테스터**가 되어주세요! </br>
-현재 iOS와 Android 베타테스터를 모집하고 있습니다.
-
-많은 관심 부탁드립니다! </br>
-
-[카카오톡 오픈채팅방](https://open.kakao.com/o/gzHQEXfh)
+[Android 다운로드](https://play.google.com/store/apps/details?id=com.logicallawbio.inha_notice&pcampaignid=web_share)
