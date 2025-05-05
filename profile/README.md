@@ -19,6 +19,3 @@
 
 ## 👀 인하공지에 대해서
 [Click - Notion](https://inha-notice.notion.site)
-
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FInhaNotice&count_bg=%230EF0F7&title_bg=%23191919&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
