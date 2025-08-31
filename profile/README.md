@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/67ecf68f-d2cb-4471-b974-e3dc2b03186e">
+  <img src="https://github.com/user-attachments/assets/9b21fb4f-d35c-491c-b58d-3645812e7454">
 </div>
 
 ## 인하대학교의 모든 소식, 이제 인하공지에서 확인하세요!
